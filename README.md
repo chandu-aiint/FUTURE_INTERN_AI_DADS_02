@@ -41,4 +41,4 @@ Built an interactive **Power BI dashboard** using social media advertising data 
 - `dashboard_screenshot.png`
 
 ## 🔗 LinkedIn Post
-[Coming Soon]
+https://www.linkedin.com/posts/chandu-b-k-b152aa363_datascience-powerbi-dashboard-activity-7356164155638231042-nI_O?utm_source=share&utm_medium=member_android&rcm=ACoAAFpHO8EBc6mmRCETlgZcu_YUsiHlesPa_4g
